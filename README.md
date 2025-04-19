@@ -1,5 +1,5 @@
 # Rota-Planlama-Sistemi
-A route planning system developed for the Programming Laboratory II course at Kocaeli University.
+A python desktop route planning application developed for the Programming Laboratory II course at Kocaeli University.
 
 
 
